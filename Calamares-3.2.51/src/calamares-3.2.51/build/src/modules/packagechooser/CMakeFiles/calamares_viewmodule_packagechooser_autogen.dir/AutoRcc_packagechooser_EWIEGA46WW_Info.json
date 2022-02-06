@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build/src/modules/packagechooser",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/src/modules/packagechooser",
+	"CMAKE_SOURCE_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51",
+	"INCLUDE_DIR" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/src/modules/packagechooser/images/LibreOffice.jpg",
+		"/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/src/modules/packagechooser/images/FreeOffice.jpg",
+		"/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/src/modules/packagechooser/images/choose-office.jpg"
+	],
+	"LOCK_FILE" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build/src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser_autogen.dir/AutoRcc_packagechooser_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "packagechooser" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_packagechooser.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/build/src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser_autogen.dir/AutoRcc_packagechooser_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/andrew/Zion/ZionPkgbuild/Calamares-3.2.51/src/calamares-3.2.51/src/modules/packagechooser/packagechooser.qrc",
+	"VERBOSITY" : 0
+}
