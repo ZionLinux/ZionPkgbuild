@@ -11,6 +11,6 @@ git commit -m "$input"
 
 sleep 0.5
 
-git push -u origin master
+git push --all origin master
 
 echo "Pushed!"
